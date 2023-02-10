@@ -1,12 +1,13 @@
 .header{
     text-align: center;
+    
 }
 .header img{
     height: 80px;
 }
 
 .header nav{
-    /* background-color: black; */
+    background-color: black;
     line-height: 40px;
 }
 .header nav a{
